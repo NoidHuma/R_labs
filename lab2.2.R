@@ -1,3 +1,5 @@
+library(readxl)
+
 # Импорт данных из CSV-файла
 example_csv <- read.csv("rfiles/data.csv")
 
